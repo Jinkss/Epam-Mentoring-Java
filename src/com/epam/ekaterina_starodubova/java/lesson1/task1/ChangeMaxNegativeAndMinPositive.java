@@ -44,7 +44,4 @@ public class ChangeMaxNegativeAndMinPositive {
             System.out.print(number + " ");
         }
     }
-
-
-
 }
